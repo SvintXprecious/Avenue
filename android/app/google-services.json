@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143219982531",
+    "project_id": "avenue-7f29a",
+    "storage_bucket": "avenue-7f29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143219982531:android:5e43ff51b7e32ab8c52276",
+        "android_client_info": {
+          "package_name": "com.avenueinc.avenue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143219982531-djnml6oiuidio0gl4u2qvh64i72al6te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwhkp_oQzNYMGcQJoF5rVgJZjcvNrR1eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143219982531-djnml6oiuidio0gl4u2qvh64i72al6te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
